@@ -25,10 +25,17 @@
 
 Most of my work lives in private repos, so the green squares below are the best public view of it.
 
-- **An internal operations platform** for a dealership group: inventory flow, service and fixed ops, financial statements, fixed assets, payroll and commissions, help desk with e-signatures, title logging and company communications. Next.js, Node, Postgres and AWS.
-- **Data pipelines** that pull from the dealer management systems, payroll and ad platforms into one warehouse, and the reports that sit on top.
-- **Engineering standards and a knowledge base** that let a small team own a large surface area, including an agent-based review and QA workflow for every pull request.
-- **Side projects:** a vehicle telematics program, a competitor inventory crawler and an AI phone agent for dealership call tracking.
+- **An operations platform for a multi-store automotive group**, built from scratch: inventory flow and relocation, service and fixed ops, financial statements, fixed assets, payroll and commissions with approval chains, a help desk with form builder and e-signatures, title logging with OCR, deal documents, marketing budgets, onboarding and company communications. Next.js, Node, Postgres, AWS.
+- **In-house replacements for off-the-shelf software** — fixed-asset accounting and depreciation, e-signature and form workflows, document scanning and classification, invoice review with OCR, journal posting into the general ledger, and marketing analytics. Each one retired a subscription or a manual process.
+- **An agent-based engineering system** — a knowledge base that doubles as the team's operating system: dozens of domain-expert agents, one per module, plus rules, QA gates and guard hooks, so every pull request is reviewed and tested by the agent that owns the code before a human looks at it.
+- **An MCP server, built from scratch** — gives approved AI assistants governed access to the platform's tools, with OAuth sign-in and consent, per-user tokens and a full activity log.
+- **Integrations and data pipelines** — dealer management, payroll and HR, ad platforms, telephony and telematics feeds into one warehouse, with the reporting on top.
+- **AI in production** — OCR and vision classification of documents, voice AI on inbound calls, and the rules and agents above.
+
+### Also built
+
+- **Sancho Finance** — a local-first personal-finance system: bank-statement ingestion and categorization, budgets, tax and receipt tracking, debt paydown and net-worth reporting, with a specialist agent per financial domain. Financial data never leaves the machine; the repo holds code and agent logic only. TypeScript and Postgres.
+- **A hyperlocal services marketplace** — designed and built a two-sided marketplace from concept to working MVP: customer web app, operator console and REST API (Fastify, Prisma, Postgres) in a pnpm and Turborepo monorepo.
 
 ### Stack
 
