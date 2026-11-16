@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Oscar 👋</h1>
 
 <p align="center">
-  <b>I run the business and build the technology behind it.</b><br/>
-  Head of Technology · Founder of Sancho Holdings · Operations, Finance &amp; Growth
+  <b>I run the business and build the technology behind it.</b>
 </p>
 
 <p align="center">
@@ -22,9 +21,9 @@ From $40M+ multi-unit P&Ls to the technology behind a $2B+ enterprise, I connect
 
 ### Now
 
-**Head of Technology** at a multi-location automotive group — I lead technology for a $2B+ revenue company with 1,100+ employees. I built its enterprise applications, a SaaS product and an MCP server, and I partner with every department to automate and improve how its people work.
+**Head of Technology** at a multi-location automotive group — I lead technology for a company with 1,100+ employees. I built its enterprise applications, a SaaS product and an MCP server, and I partner with every department to automate and improve how its people work.
 
-Before that: President of Operations for a franchise group, Director of Operations over seven units and $43.5M in revenue, and Regional Training Director.
+Before that: President of Operations for a franchise group, Director of Operations over seven locations, and Regional Training Director.
 
 ### Ventures
 
@@ -81,10 +80,6 @@ Most of my work lives in private repos, so the green squares below are the best 
 
 <p align="center">
   <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=oscarsanchez13&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="center">
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=oscarsanchez13&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ### Public repos worth a look
